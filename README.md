@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS**
+- 🌱 I’m currently learning **Symfony, NodeJS**
 
 - 📫 How to reach me **bozkurtberkay@hotmail.com**
 
