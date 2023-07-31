@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+<h3 align="center">Frontend and Backend developer from Turkey</h3>
 
 - 📫 How to reach me **bozkurtberkay@hotmail.com**
 
